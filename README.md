@@ -167,6 +167,3 @@ npm run lint       # Run ESLint
 
 ---
 
-**Assignment completed by**: [Your Name]  
-**Date**: [Today's Date]  
-**Course**: React Native Development
